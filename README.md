@@ -1,8 +1,7 @@
 # 👋 Hi, I'm **Calvin Griggs**
 
 ### 🚀 Senior Full Stack .NET & Cloud Engineer  
-📍 Muskegon, MI &nbsp; | &nbsp; 📧 [calvingriggs07@gmail.com](mailto:calvingriggs07@gmail.com) &nbsp; | &nbsp; ☎️ (646) 783-9073,(347) 831-5163   
-🔗 [LinkedIn](https://www.linkedin.com/in/calvin-griggs-287140a1/) &nbsp; | &nbsp; [Portfolio / Projects](#-featured-projects)
+📍 Muskegon, MI &nbsp; | &nbsp; 📧 [calvingriggs07@gmail.com](mailto:calvingriggs07@gmail.com) &nbsp; | &nbsp; ☎️ (646) 783-9073,(347) 831-5163
 
 ---
 
@@ -46,30 +45,6 @@ I thrive at the intersection of **architecture, automation, and innovation** —
 
 ---
 
-## 💼 Experience Snapshot
-
-### **Allstate Insurance Company** — *Senior Software Engineer* (2018-Present)  
-- Led modernization of C# monolith → microservices on Azure.  
-- Architected event-driven claims workflows with Azure Functions & Service Bus.  
-- Integrated **AI-driven search/chatbots** via Azure Cognitive Services.  
-- Built React + Angular front-ends with WCAG-compliant design.  
-- Introduced observability (Prometheus, Grafana) and IaC (Terraform, Bicep).  
-- Deployed Python FastAPI microservices for analytics & reporting pipelines.  
-
-### **United Launch Alliance (ULA)** — *Software Engineer* (2015-2017)  
-- Developed mission-critical ground systems in C#/.NET for launch ops.  
-- Integrated **GIS + real-time telemetry dashboards** using Angular & D3.js.  
-- Automated testing with Python + pytest; boosted coverage to 80%.  
-
-### **Core Technology Corp** — *Software Developer* (2013-2015)  
-- Built justice data integrations and **geospatial crime mapping** apps (C#/Angular/PostGIS).  
-- Integrated Elasticsearch for real-time record search (80% faster queries).  
-
-### **FAITH Catholic Publishing** — *Web Developer* (2012-2013)  
-- Created ASP.NET MVC content platform and automated newsletter workflows.  
-
----
-
 ## 🧰 Featured Projects
 
 | Project | Description | Tech Stack |
@@ -101,8 +76,6 @@ I thrive at the intersection of **architecture, automation, and innovation** —
 ---
 
 ## 📫 Connect with Me
-
-💼 [LinkedIn](https://www.linkedin.com/in/calvin-griggs-287140a1/)  
 📧 [calvingriggs07@gmail.com](mailto:calvingriggs07@gmail.com)  
 🗺️ Muskegon, MI | Remote-first
 
