@@ -1,8 +1,6 @@
-# 👋 Hi, I'm **Calvin Griggs**
+# 👋 Hi, Everyone.
 
 ### 🚀 Senior Full Stack .NET & Cloud Engineer  
-📍 Muskegon, MI &nbsp; | &nbsp; 📧 [calvingriggs07@gmail.com](mailto:calvingriggs07@gmail.com) &nbsp; | &nbsp; ☎️ (646) 783-9073,(347) 831-5163
-
 ---
 
 ## 🧩 About Me
@@ -72,14 +70,6 @@ I thrive at the intersection of **architecture, automation, and innovation** —
 - Distributed tracing & service mesh patterns  
 - Cross-platform mobile apps with .NET MAUI  
 - WASM with Blazor & React integration  
-
----
-
-## 📫 Connect with Me
-📧 [calvingriggs07@gmail.com](mailto:calvingriggs07@gmail.com)  
-🗺️ Muskegon, MI | Remote-first
-
----
 
 ## ⚡ Fun Facts
 
